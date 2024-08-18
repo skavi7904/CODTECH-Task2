@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^1.5.1",
+    "express.js": "^1.0.0",
+    "firebase": "^10.13.0",
+    "firebaseui": "^6.1.0",
+    "nodemon": "^3.1.4"
+  }
+}
