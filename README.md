@@ -35,18 +35,18 @@ This Blog Website is a full-stack web application that combines frontend and bac
 
 
 ### Features
--**Add Blog**: Users can create and publish new blog posts.
--**Edit Blog**: Allows users to edit existing blog posts.
--**Delete Blog**: Allows users to delete existing blog posts.
--**User Dashboard**: A personalized dashboard for users to manage their blogs.
--**Display all blogs**:  View all blog posts in a clean and organized layout.
--**Comments**: Allows users to comments in existing posts.
--**Responsive Design**: The application is designed to be responsive and user-friendly on different screen sizes.
+-**Add Blog**: Users can create and publish new blog posts.<br>
+-**Edit Blog**: Allows users to edit existing blog posts.<br>
+-**Delete Blog**: Allows users to delete existing blog posts.<br>
+-**User Dashboard**: A personalized dashboard for users to manage their blogs.<br>
+-**Display all blogs**:  View all blog posts in a clean and organized layout.<br>
+-**Comments**: Allows users to comments in existing posts.<br>
+-**Responsive Design**: The application is designed to be responsive and user-friendly on different screen sizes.<br>
 
 ### Technologies Used
--**HTML**: Structure of the web page.
--**CSS**: Styling and layout of the application.
--**JavaScript**: Functionality including event handling.
--**NodeJS**: Powers the backend, enabling server-side logic and APIs.
--**ExpressJS**: A web framework for Node.js that simplifies backend development.
--**Firebase**: Used for real-time database management and user authentication
+-**HTML**: Structure of the web page.<br>
+-**CSS**: Styling and layout of the application.<br>
+-**JavaScript**: Functionality including event handling.<br>
+-**NodeJS**: Powers the backend, enabling server-side logic and APIs.<br>
+-**ExpressJS**: A web framework for Node.js that simplifies backend development.<br>
+-**Firebase**: Used for real-time database management and user authentication<br>
